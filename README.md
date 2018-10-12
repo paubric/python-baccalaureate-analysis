@@ -1,0 +1,7 @@
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Biologie.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Chimie.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Fizica.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Informatica.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Logica.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Psihologie.png)
+![](https://github.com/paubric/python-baccalaureate-analysis/blob/master/Sociologie.png)
